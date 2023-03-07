@@ -1,2 +1,2 @@
-# MachineLearning
-Machine Learning
+#AI
+Artificial Intelligence, Deep learning and Machine Learning
